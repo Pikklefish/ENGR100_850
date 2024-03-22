@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "ENGR100_850.ino"
+}
